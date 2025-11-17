@@ -72,8 +72,9 @@ print(classification_rep)
 
 <H3>Output:</H3>
 
-![image](https://github.com/user-attachments/assets/9a880072-fd0a-4f99-900a-f71248a090c9)
-![image](https://github.com/user-attachments/assets/0518b8d3-7420-4ba1-a991-a46c9ccbfaf8)
+<img width="770" height="541" alt="image" src="https://github.com/user-attachments/assets/6a1d0f64-a415-49d7-8b98-88cfba606c60" />
+
+<img width="537" height="295" alt="image" src="https://github.com/user-attachments/assets/fc6fd939-4ead-4160-b88b-8b606dff3746" />
 
 
 <H3>Results:</H3>
